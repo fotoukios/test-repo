@@ -1,1 +1,5 @@
-Adding a new line
+<<<<<<< feature/update-text
+helloo
+=======
+hello all 
+>>>>>>> main
